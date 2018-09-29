@@ -9,6 +9,7 @@ using System;
 
 namespace FingerPrint
 {
+    //First version
     [Activity(Label = "@string/app_name", Theme = "@style/AppTheme", MainLauncher = true)]
     public class MainActivity : AppCompatActivity
     {
